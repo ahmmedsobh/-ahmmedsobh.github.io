@@ -2,49 +2,49 @@
 [
   {
     "Id": 1,
-    "Name": "رواق",
+    "Text": "رواق",
     "Url": "https://www.rwaq.org/",
-    "ImgUrl": "https://i.suar.me/yWy9m/l",
+    "Icon": "https://i.suar.me/yWy9m/l",
     "CategoryId": 1,
     "CategoryName": "تعليم"
   },
   {
     "Id": 2,
-    "Name": "ادراك",
+    "Text": "ادراك",
     "Url": "https://www.edraak.org/",
-    "ImgUrl": "https://i.suar.me/4YEN5/l",
+    "Icon": "https://i.suar.me/4YEN5/l",
     "CategoryId": 1,
     "CategoryName": "تعليم"
   },
   {
     "Id": 3,
-    "Name": "ادلال",
+    "Text": "ادلال",
     "Url": "https://www.edlal.org/",
-    "ImgUrl": "https://i.suar.me/ZQqW2/l",
+    "Icon": "https://i.suar.me/ZQqW2/l",
     "CategoryId": 1,
     "CategoryName": "تعليم"
   },
   {
     "Id": 4,
-    "Name": "مهارة",
+    "Text": "مهارة",
     "Url": "https://www.rwaq.org/",
-    "ImgUrl": "https://i.suar.me/zY0Ml/l",
+    "Icon": "https://i.suar.me/zY0Ml/l",
     "CategoryId": 2,
     "CategoryName": "2تعليم"
   },
   {
     "Id": 5,
-    "Name": "مهاره تك",
+    "Text": "مهاره تك",
     "Url": "https://www.edraak.org/",
-    "ImgUrl": "https://i.suar.me/AWm9L/l",
+    "Icon": "https://i.suar.me/AWm9L/l",
     "CategoryId": 2,
     "CategoryName": "2تعليم"
   },
   {
     "Id": 6,
-    "Name": "ندرس",
+    "Text": "ندرس",
     "Url": "https://www.edlal.org/",
-    "ImgUrl": "https://i.suar.me/mwoOQ/l",
+    "Icon": "https://i.suar.me/mwoOQ/l",
     "CategoryId": 2,
     "CategoryName": "2تعليم"
   }
