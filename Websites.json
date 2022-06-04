@@ -2,54 +2,54 @@
 [
   {
     "Id": 1,
-    "Name": "رواق",
+    "Text": "رواق",
     "Url": "https://www.rwaq.org/",
-    "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/1231527_515134818578669_892778247_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rmBLIfo6BLkAX9ul0mI&_nc_ht=scontent.fcai21-1.fna&oh=e1c84f3c2e4cac80fd4f9556ba3437dd&oe=60BBF1A4",
+    "Icon": "https://i.suar.me/yWy9m/l",
     "CategoryId": 1,
     "CategoryName": "تعليم",
     "SearchLink": "https://www.rwaq.org/"
   },
   {
     "Id": 2,
-    "Name": "ادراك",
+    "Text": "ادراك",
     "Url": "https://www.edraak.org/",
-    "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/17553894_1233066446810025_345848711086355947_n.png?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=wCP5BnLCzRMAX-JPwE5&_nc_ht=scontent.fcai21-1.fna&oh=3ef7f0775f224feb9d16e7b7e9d691b0&oe=60BBD95C",
+    "Icon": "https://i.suar.me/4YEN5/l",
     "CategoryId": 1,
     "CategoryName": "تعليم",
     "SearchLink": "https://www.edraak.org/"
   },
   {
     "Id": 3,
-    "Name": "ادلال",
+    "Text": "ادلال",
     "Url": "https://www.edlal.org/",
-    "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/1231527_515134818578669_892778247_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rmBLIfo6BLkAX9ul0mI&_nc_ht=scontent.fcai21-1.fna&oh=e1c84f3c2e4cac80fd4f9556ba3437dd&oe=60BBF1A4",
+    "Icon": "https://i.suar.me/ZQqW2/l",
     "CategoryId": 1,
     "CategoryName": "تعليم",
     "SearchLink": "https://www.edlal.org/"
   },
   {
     "Id": 4,
-    "Name": "مهارة",
+    "Text": "مهارة",
     "Url": "https://www.rwaq.org/",
-    "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/1231527_515134818578669_892778247_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rmBLIfo6BLkAX9ul0mI&_nc_ht=scontent.fcai21-1.fna&oh=e1c84f3c2e4cac80fd4f9556ba3437dd&oe=60BBF1A4",
+    "Icon": "https://i.suar.me/zY0Ml/l",
     "CategoryId": 2,
     "CategoryName": "2تعليم",
     "SearchLink": "https://www.rwaq.org/"
   },
   {
     "Id": 5,
-    "Name": "مهاره تك",
+    "Text": "مهاره تك",
     "Url": "https://www.edraak.org/",
-    "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/17553894_1233066446810025_345848711086355947_n.png?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=wCP5BnLCzRMAX-JPwE5&_nc_ht=scontent.fcai21-1.fna&oh=3ef7f0775f224feb9d16e7b7e9d691b0&oe=60BBD95C",
+    "Icon": "https://i.suar.me/AWm9L/l",
     "CategoryId": 2,
     "CategoryName": "2تعليم",
     "SearchLink": "https://www.edraak.org/"
   },
   {
     "Id": 6,
-    "Name": "ندرس",
+    "Text": "ندرس",
     "Url": "https://www.edlal.org/",
-    "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/1231527_515134818578669_892778247_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rmBLIfo6BLkAX9ul0mI&_nc_ht=scontent.fcai21-1.fna&oh=e1c84f3c2e4cac80fd4f9556ba3437dd&oe=60BBF1A4",
+    "Icon": "https://i.suar.me/mwoOQ/l",
     "CategoryId": 2,
     "CategoryName": "2تعليم",
     "SearchLink": "https://www.edlal.org/"
