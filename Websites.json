@@ -6,7 +6,8 @@
     "Url": "https://www.rwaq.org/",
     "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/1231527_515134818578669_892778247_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rmBLIfo6BLkAX9ul0mI&_nc_ht=scontent.fcai21-1.fna&oh=e1c84f3c2e4cac80fd4f9556ba3437dd&oe=60BBF1A4",
     "CategoryId": 1,
-    "CategoryName": "تعليم"
+    "CategoryName": "تعليم",
+    "SearchLink": "https://www.rwaq.org/"
   },
   {
     "Id": 2,
@@ -14,7 +15,8 @@
     "Url": "https://www.edraak.org/",
     "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/17553894_1233066446810025_345848711086355947_n.png?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=wCP5BnLCzRMAX-JPwE5&_nc_ht=scontent.fcai21-1.fna&oh=3ef7f0775f224feb9d16e7b7e9d691b0&oe=60BBD95C",
     "CategoryId": 1,
-    "CategoryName": "تعليم"
+    "CategoryName": "تعليم",
+    "SearchLink": "https://www.edraak.org/"
   },
   {
     "Id": 3,
@@ -22,7 +24,8 @@
     "Url": "https://www.edlal.org/",
     "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/1231527_515134818578669_892778247_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rmBLIfo6BLkAX9ul0mI&_nc_ht=scontent.fcai21-1.fna&oh=e1c84f3c2e4cac80fd4f9556ba3437dd&oe=60BBF1A4",
     "CategoryId": 1,
-    "CategoryName": "تعليم"
+    "CategoryName": "تعليم",
+    "SearchLink": "https://www.edlal.org/"
   },
   {
     "Id": 4,
@@ -30,7 +33,8 @@
     "Url": "https://www.rwaq.org/",
     "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/1231527_515134818578669_892778247_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rmBLIfo6BLkAX9ul0mI&_nc_ht=scontent.fcai21-1.fna&oh=e1c84f3c2e4cac80fd4f9556ba3437dd&oe=60BBF1A4",
     "CategoryId": 2,
-    "CategoryName": "2تعليم"
+    "CategoryName": "2تعليم",
+    "SearchLink": "https://www.rwaq.org/"
   },
   {
     "Id": 5,
@@ -38,7 +42,8 @@
     "Url": "https://www.edraak.org/",
     "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/17553894_1233066446810025_345848711086355947_n.png?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=wCP5BnLCzRMAX-JPwE5&_nc_ht=scontent.fcai21-1.fna&oh=3ef7f0775f224feb9d16e7b7e9d691b0&oe=60BBD95C",
     "CategoryId": 2,
-    "CategoryName": "2تعليم"
+    "CategoryName": "2تعليم",
+    "SearchLink": "https://www.edraak.org/"
   },
   {
     "Id": 6,
@@ -46,7 +51,8 @@
     "Url": "https://www.edlal.org/",
     "ImgUrl": "https://scontent.fcai21-1.fna.fbcdn.net/v/t1.18169-9/1231527_515134818578669_892778247_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rmBLIfo6BLkAX9ul0mI&_nc_ht=scontent.fcai21-1.fna&oh=e1c84f3c2e4cac80fd4f9556ba3437dd&oe=60BBF1A4",
     "CategoryId": 2,
-    "CategoryName": "2تعليم"
+    "CategoryName": "2تعليم",
+    "SearchLink": "https://www.edlal.org/"
   }
 ]
   
