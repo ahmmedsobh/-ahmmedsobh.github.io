@@ -2,29 +2,29 @@
 [
   {
     "Id": 1,
-    "Text": "رواق",
-    "Url": "https://www.rwaq.org/",
+    "Text": "Khan Academy",
+    "Url": "https://ar.khanacademy.org/",
     "Icon": "https://i.suar.me/yWy9m/l",
     "CategoryId": 1,
-    "CategoryName": "تعليم",
+    "CategoryName": "education",
     "SearchLink": "https://www.rwaq.org/"
   },
   {
     "Id": 2,
-    "Text": "ادراك",
-    "Url": "https://www.edraak.org/",
+    "Text": "Coursera",
+    "Url": "https://www.coursera.org/",
     "Icon": "https://i.suar.me/4YEN5/l",
     "CategoryId": 1,
-    "CategoryName": "تعليم",
+    "CategoryName": "education",
     "SearchLink": "https://www.edraak.org/"
   },
   {
     "Id": 3,
-    "Text": "ادلال",
-    "Url": "https://www.edlal.org/",
+    "Text": "Udemy",
+    "Url": "https://www.udemy.com/",
     "Icon": "https://i.suar.me/ZQqW2/l",
     "CategoryId": 1,
-    "CategoryName": "تعليم",
+    "CategoryName": "education",
     "SearchLink": "https://www.edlal.org/"
   },
   {
