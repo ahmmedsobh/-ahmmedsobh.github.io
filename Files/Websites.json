@@ -1,59 +1,115 @@
-﻿
-[
+﻿[
   {
     "Id": 1,
-    "Text": "Khan Academy",
-    "Url": "https://ar.khanacademy.org/",
-    "Icon": "https://i.suar.me/yWy9m/l",
+    "Text": "facebook",
+    "Url": "https://facebook.com/",
+    "Icon": "https://i.suar.me/4YA2o/l",
     "CategoryId": 1,
-    "CategoryName": "education",
-    "SearchLink": "https://www.rwaq.org/"
+    "CategoryName": "social media",
+    "SearchLink": "https://www.facebook.com/search/top?q="
   },
   {
     "Id": 2,
-    "Text": "Coursera",
-    "Url": "https://www.coursera.org/",
-    "Icon": "https://i.suar.me/4YEN5/l",
+    "Text": "twitter",
+    "Url": "https://twitter.com",
+    "Icon": "https://i.suar.me/AW3o0/l",
     "CategoryId": 1,
-    "CategoryName": "education",
-    "SearchLink": "https://www.edraak.org/"
+    "CategoryName": "social media",
+    "SearchLink": ""
   },
   {
     "Id": 3,
-    "Text": "Udemy",
-    "Url": "https://www.udemy.com/",
-    "Icon": "https://i.suar.me/ZQqW2/l",
+    "Text": "instagram",
+    "Url": "https://www.instagram.com/",
+    "Icon": "https://i.suar.me/G5E9A/l",
     "CategoryId": 1,
-    "CategoryName": "education",
-    "SearchLink": "https://www.edlal.org/"
+    "CategoryName": "social media",
+    "SearchLink": ""
   },
   {
     "Id": 4,
-    "Text": "مهارة",
-    "Url": "https://www.rwaq.org/",
-    "Icon": "https://i.suar.me/zY0Ml/l",
-    "CategoryId": 2,
-    "CategoryName": "2تعليم",
-    "SearchLink": "https://www.rwaq.org/"
+    "Text": "whatsapp",
+    "Url": "https://web.whatsapp.com/",
+    "Icon": "https://i.suar.me/zYE60/l",
+    "CategoryId": 1,
+    "CategoryName": "social media",
+    "SearchLink": ""
   },
   {
     "Id": 5,
-    "Text": "مهاره تك",
-    "Url": "https://www.edraak.org/",
-    "Icon": "https://i.suar.me/AWm9L/l",
-    "CategoryId": 2,
-    "CategoryName": "2تعليم",
-    "SearchLink": "https://www.edraak.org/"
+    "Text": "messenger",
+    "Url": "https://www.facebook.com/messages",
+    "Icon": "https://i.suar.me/J4zJB/l",
+    "CategoryId": 1,
+    "CategoryName": "social media",
+    "SearchLink": ""
   },
   {
     "Id": 6,
-    "Text": "ندرس",
-    "Url": "https://www.edlal.org/",
-    "Icon": "https://i.suar.me/mwoOQ/l",
-    "CategoryId": 2,
-    "CategoryName": "2تعليم",
-    "SearchLink": "https://www.edlal.org/"
-  }
+    "Text": "snapchat",
+    "Url": "https://accounts.snapchat.com",
+    "Icon": "https://i.suar.me/ZQv10/l",
+    "CategoryId": 1,
+    "CategoryName": "social media",
+    "SearchLink": ""
+  },
+  {
+    "Id": 7,
+    "Text": "reddit",
+    "Url": "https://www.reddit.com/",
+    "Icon": "https://i.suar.me/wYpPM/l",
+    "CategoryId": 1,
+    "CategoryName": "social media",
+    "SearchLink": "https://www.reddit.com/search/?q="
+  },
+  {
+    "Id": 8,
+    "Text": "telegram",
+    "Url": "https://web.telegram.org/",
+    "Icon": "https://i.suar.me/YPva5/l",
+    "CategoryId": 1,
+    "CategoryName": "social media",
+    "SearchLink": "https://www.reddit.com/search/?q="
+  },
+  {
+    "Id": 9,
+    "Text": "linkedin",
+    "Url": "https://www.linkedin.com",
+    "Icon": "https://i.suar.me/05ABZ/l",
+    "CategoryId": 1,
+    "CategoryName": "social media",
+    "SearchLink": "https://www.linkedin.com/search/results/all/?keywords="
+  },
+  {
+    "Id": 10,
+    "Text": "tumblr",
+    "Url": "https://www.tumblr.com",
+    "Icon": "https://i.suar.me/gwPBQ/l",
+    "CategoryId": 1,
+    "CategoryName": "social media",
+    "SearchLink": "https://www.tumblr.com/search/"
+  },
+  {
+    "Id": 11,
+    "Text": "pinterest",
+    "Url": "https://www.pinterest.com/",
+    "Icon": "https://i.suar.me/9Qlew/l",
+    "CategoryId": 1,
+    "CategoryName": "social media",
+    "SearchLink": ""
+  },
+  //{
+  //  "Id": 12,
+  //  "Text": "linkedin",
+  //  "Url": "https://www.linkedin.com",
+  //  "Icon": "https://i.suar.me/05ABZ/l",
+  //  "CategoryId": 1,
+  //  "CategoryName": "social media",
+  //  "SearchLink": "https://www.linkedin.com/search/results/all/?keywords="
+  //}
+
+
+
 ]
   
   
