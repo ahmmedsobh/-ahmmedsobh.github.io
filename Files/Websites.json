@@ -113,7 +113,7 @@
     "Text": "google",
     "Url": "https://www.google.com/",
     "Icon": "https://i.suar.me/G5Mq9/l",
-    "CategoryId": 1,
+    "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "https://www.google.com/search?q="
   },
