@@ -26,15 +26,15 @@
     "CategoryName": "social media",
     "SearchLink": ""
   },
-  {
-    "Id": 4,
-    "Text": "whatsapp",
-    "Url": "https://web.whatsapp.com/",
-    "Icon": "https://i.suar.me/zYE60/l",
-    "CategoryId": 1,
-    "CategoryName": "social media",
-    "SearchLink": ""
-  },
+  //{
+  //  "Id": 4,
+  //  "Text": "whatsapp",
+  //  "Url": "https://wa.me",
+  //  "Icon": "https://i.suar.me/zYE60/l",
+  //  "CategoryId": 1,
+  //  "CategoryName": "social media",
+  //  "SearchLink": ""
+  //},
   {
     "Id": 5,
     "Text": "messenger",
@@ -108,7 +108,294 @@
   //  "SearchLink": "https://www.linkedin.com/search/results/all/?keywords="
   //}
 
-
+  {
+    "Id": 11,
+    "Text": "google",
+    "Url": "https://www.google.com/",
+    "Icon": "https://i.suar.me/G5Mq9/l",
+    "CategoryId": 1,
+    "CategoryName": "search",
+    "SearchLink": "https://www.google.com/search?q="
+  },
+  {
+    "Id": 12,
+    "Text": "bing",
+    "Url": "https://www.bing.com/",
+    "Icon": "https://i.suar.me/4YyPX/l",
+    "CategoryId": 2,
+    "CategoryName": "search",
+    "SearchLink": "https://www.bing.com/search?q="
+  },
+  {
+    "Id": 13,
+    "Text": "yahoo",
+    "Url": "https://search.yahoo.com/",
+    "Icon": "https://i.suar.me/05v9r/l",
+    "CategoryId": 2,
+    "CategoryName": "search",
+    "SearchLink": "https://search.yahoo.com/search;_ylt="
+  },
+  {
+    "Id": 14,
+    "Text": "baidu",
+    "Url": "https://www.baidu.com",
+    "Icon": "https://i.suar.me/J49Oa/l",
+    "CategoryId": 2,
+    "CategoryName": "search",
+    "SearchLink": ""
+  },
+  {
+    "Id": 15,
+    "Text": "yandex",
+    "Url": "https://yandex.com/",
+    "Icon": "https://i.suar.me/ZQdLM/l",
+    "CategoryId": 2,
+    "CategoryName": "search",
+    "SearchLink": "https://yandex.ru/search/?text="
+  },
+  {
+    "Id": 16,
+    "Text": "duckduckgo",
+    "Url": "https://duckduckgo.com/",
+    "Icon": "https://i.suar.me/YPO0X/l",
+    "CategoryId": 2,
+    "CategoryName": "search",
+    "SearchLink": "https://duckduckgo.com/?q="
+  },
+  {
+    "Id": 17,
+    "Text": "aol",
+    "Url": "https://www.aol.com/",
+    "Icon": "https://i.suar.me/MBX83/l",
+    "CategoryId": 2,
+    "CategoryName": "search",
+    "SearchLink": "https://search.aol.com/aol/search?q="
+  },
+  {
+    "Id": 18,
+    "Text": "brave",
+    "Url": "https://search.brave.com/",
+    "Icon": "https://i.suar.me/zY1Wv/l",
+    "CategoryId": 2,
+    "CategoryName": "search",
+    "SearchLink": "https://search.brave.com/search?q="
+  },
+  {
+    "Id": 19,
+    "Text": "youtube",
+    "Url": "https://www.youtube.com/",
+    "Icon": "https://i.suar.me/yWaM7/l",
+    "CategoryId": 3,
+    "CategoryName": "videos",
+    "SearchLink": "https://www.youtube.com/results?search_query="
+  },
+  {
+    "Id": 20,
+    "Text": "vimeo",
+    "Url": "https://vimeo.com/",
+    "Icon": "https://i.suar.me/QrLPO/l",
+    "CategoryId": 3,
+    "CategoryName": "videos",
+    "SearchLink": "https://vimeo.com/search?q="
+  },
+  {
+    "Id": 21,
+    "Text": "dailymotion",
+    "Url": "https://www.dailymotion.com",
+    "Icon": "https://i.suar.me/mwdZj/l",
+    "CategoryId": 3,
+    "CategoryName": "videos",
+    "SearchLink": "https://www.dailymotion.com/search/"
+  },
+  {
+    "Id": 22,
+    "Text": "twitch",
+    "Url": "https://www.twitch.tv/",
+    "Icon": "https://i.suar.me/BWzLd/l",
+    "CategoryId": 3,
+    "CategoryName": "videos",
+    "SearchLink": "https://www.twitch.tv/search?term="
+  },
+  {
+    "Id": 23,
+    "Text": "pinterest",
+    "Url": "https://9gag.com/video",
+    "Icon": "https://i.suar.me/vYVOB/l",
+    "CategoryId": 3,
+    "CategoryName": "videos",
+    "SearchLink": "https://9gag.com/search?query="
+  },
+  {
+    "Id": 24,
+    "Text": "ted",
+    "Url": "https://www.ted.com",
+    "Icon": "https://i.suar.me/KgJd8/l",
+    "CategoryId": 3,
+    "CategoryName": "videos",
+    "SearchLink": "https://www.ted.com/search?q="
+  },
+  {
+    "Id": 25,
+    "Text": "facebook watch",
+    "Url": "https://www.facebook.com/watch",
+    "Icon": "https://i.suar.me/EWE8r/l",
+    "CategoryId": 3,
+    "CategoryName": "videos",
+    "SearchLink": "https://www.facebook.com/watch/search/?q="
+  },
+  {
+    "Id": 26,
+    "Text": "tiktok",
+    "Url": "https://www.tiktok.com",
+    "Icon": "https://i.suar.me/6npLY/l",
+    "CategoryId": 3,
+    "CategoryName": "videos",
+    "SearchLink": "https://www.tiktok.com/search?q="
+  },
+  {
+    "Id": 27,
+    "Text": "amazon",
+    "Url": "https://www.amazon.com/",
+    "Icon": "https://i.suar.me/PPWY0/l",
+    "CategoryId": 4,
+    "CategoryName": "shopping",
+    "SearchLink": "https://www.amazon.com/s?k="
+  },
+  {
+    "Id": 28,
+    "Text": "walmart",
+    "Url": "https://www.walmart.com/",
+    "Icon": "https://i.suar.me/WQe4M/l",
+    "CategoryId": 4,
+    "CategoryName": "shopping",
+    "SearchLink": "https://www.walmart.com/search?q="
+  },
+  {
+    "Id": 29,
+    "Text": "target",
+    "Url": "https://www.target.com/",
+    "Icon": "https://i.suar.me/pw3aq/l",
+    "CategoryId": 4,
+    "CategoryName": "shopping",
+    "SearchLink": "https://www.target.com/s?searchTerm="
+  },
+  {
+    "Id": 30,
+    "Text": "ebay",
+    "Url": "https://www.ebay.com/",
+    "Icon": "https://i.suar.me/XpNZ1/l",
+    "CategoryId": 4,
+    "CategoryName": "shopping",
+    "SearchLink": "https://www.ebay.com/sch/i.html?_nkw="
+  },
+  {
+    "Id": 31,
+    "Text": "ikea",
+    "Url": "https://www.ikea.com",
+    "Icon": "https://i.suar.me/nBjLa/l",
+    "CategoryId": 4,
+    "CategoryName": "shopping",
+    "SearchLink": "https://www.ikea.com/search/products/?q="
+  },
+  {
+    "Id": 32,
+    "Text": "etsy",
+    "Url": "https://www.etsy.com/",
+    "Icon": "https://i.suar.me/5nyZr/l",
+    "CategoryId": 4,
+    "CategoryName": "shopping",
+    "SearchLink": "https://www.etsy.com/search?q="
+  },
+  {
+    "Id": 33,
+    "Text": "alibaba",
+    "Url": "https://www.alibaba.com/",
+    "Icon": "https://i.suar.me/2Yy43/l",
+    "CategoryId": 4,
+    "CategoryName": "shopping",
+    "SearchLink": "https://www.alibaba.com/trade/search?SearchText="
+  },
+  {
+    "Id": 34,
+    "Text": "flipkart",
+    "Url": "https://www.flipkart.com/",
+    "Icon": "https://i.suar.me/1Yy7Y/l",
+    "CategoryId": 4,
+    "CategoryName": "shopping",
+    "SearchLink": "https://www.flipkart.com/search?q="
+  },
+  {
+    "Id": 35,
+    "Text": "skillshare",
+    "Url": "https://www.skillshare.com/",
+    "Icon": "https://i.suar.me/lwO89/l",
+    "CategoryId": 5,
+    "CategoryName": "courses",
+    "SearchLink": "https://www.skillshare.com/search?query="
+  },
+  {
+    "Id": 36,
+    "Text": "udemy",
+    "Url": "https://www.udemy.com/",
+    "Icon": "https://i.suar.me/qwr11/l",
+    "CategoryId": 5,
+    "CategoryName": "courses",
+    "SearchLink": "https://www.udemy.com/courses/search/?q="
+  },
+  {
+    "Id": 37,
+    "Text": "linkedin learning",
+    "Url": "https://www.linkedin.com/learning/",
+    "Icon": "https://i.suar.me/e72ld/l",
+    "CategoryId": 5,
+    "CategoryName": "courses",
+    "SearchLink": "https://www.linkedin.com/learning/search?keywords="
+  },
+  {
+    "Id": 38,
+    "Text": "udacity",
+    "Url": "https://www.udacity.com/",
+    "Icon": "https://i.suar.me/NA9Ya/l",
+    "CategoryId": 5,
+    "CategoryName": "courses",
+    "SearchLink": ""
+  },
+  {
+    "Id": 39,
+    "Text": "edx",
+    "Url": "https://www.edx.org/",
+    "Icon": "https://i.suar.me/Or4Xa/l",
+    "CategoryId": 5,
+    "CategoryName": "courses",
+    "SearchLink": "https://www.edx.org/search?q="
+  },
+  {
+    "Id": 40,
+    "Text": "coursera",
+    "Url": "https://www.coursera.org/",
+    "Icon": "https://i.suar.me/dQL1p/l",
+    "CategoryId": 5,
+    "CategoryName": "courses",
+    "SearchLink": "https://www.coursera.org/search?query="
+  },
+  {
+    "Id": 41,
+    "Text": "khanacademy",
+    "Url": "https://khanacademy.org/",
+    "Icon": "https://i.suar.me/jZedv/l",
+    "CategoryId": 5,
+    "CategoryName": "courses",
+    "SearchLink": "https://en.khanacademy.org/search?page_search_query="
+  },
+  {
+    "Id": 42,
+    "Text": "alison",
+    "Url": "https://alison.com/",
+    "Icon": "https://i.suar.me/2Yy49/l",
+    "CategoryId": 5,
+    "CategoryName": "courses",
+    "SearchLink": "https://alison.com/courses?query="
+  }
 
 ]
   
