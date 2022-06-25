@@ -7,7 +7,8 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "https://www.facebook.com/search/top?q=",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": true
   },
   {
     "Id": 2,
@@ -17,7 +18,9 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 3,
@@ -27,7 +30,9 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": true
+
   },
   //{
   //  "Id": 4,
@@ -46,7 +51,9 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 6,
@@ -56,7 +63,9 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 7,
@@ -66,7 +75,10 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "https://www.reddit.com/search/?q=",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": false
+
+
   },
   {
     "Id": 8,
@@ -76,7 +88,9 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "https://www.reddit.com/search/?q=",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 9,
@@ -86,7 +100,9 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "https://www.linkedin.com/search/results/all/?keywords=",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 10,
@@ -96,7 +112,9 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "https://www.tumblr.com/search/",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 11,
@@ -106,7 +124,9 @@
     "CategoryId": 1,
     "CategoryName": "social media",
     "SearchLink": "",
-    "CategoryIcon": "https://i.suar.me/Or41x/l"
+    "CategoryIcon": "https://i.suar.me/Or41x/l",
+    "IsFavorite":false
+
   },
   //{
   //  "Id": 12,
@@ -126,7 +146,9 @@
     "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "https://www.google.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/jZeLB/l"
+    "CategoryIcon": "https://i.suar.me/jZeLB/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 12,
@@ -136,7 +158,9 @@
     "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "https://www.bing.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/jZeLB/l"
+    "CategoryIcon": "https://i.suar.me/jZeLB/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 13,
@@ -146,7 +170,9 @@
     "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "https://search.yahoo.com/search;_ylt=",
-    "CategoryIcon": "https://i.suar.me/jZeLB/l"
+    "CategoryIcon": "https://i.suar.me/jZeLB/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 14,
@@ -156,7 +182,9 @@
     "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "",
-    "CategoryIcon": "https://i.suar.me/jZeLB/l"
+    "CategoryIcon": "https://i.suar.me/jZeLB/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 15,
@@ -166,7 +194,9 @@
     "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "https://yandex.ru/search/?text=",
-    "CategoryIcon": "https://i.suar.me/jZeLB/l"
+    "CategoryIcon": "https://i.suar.me/jZeLB/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 16,
@@ -176,7 +206,9 @@
     "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "https://duckduckgo.com/?q=",
-    "CategoryIcon": "https://i.suar.me/jZeLB/l"
+    "CategoryIcon": "https://i.suar.me/jZeLB/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 17,
@@ -186,7 +218,9 @@
     "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "https://search.aol.com/aol/search?q=",
-    "CategoryIcon": "https://i.suar.me/jZeLB/l"
+    "CategoryIcon": "https://i.suar.me/jZeLB/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 18,
@@ -196,7 +230,9 @@
     "CategoryId": 2,
     "CategoryName": "search",
     "SearchLink": "https://search.brave.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/jZeLB/l"
+    "CategoryIcon": "https://i.suar.me/jZeLB/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 19,
@@ -206,7 +242,9 @@
     "CategoryId": 3,
     "CategoryName": "videos",
     "SearchLink": "https://www.youtube.com/results?search_query=",
-    "CategoryIcon": "https://i.suar.me/3PWGr/l"
+    "CategoryIcon": "https://i.suar.me/3PWGr/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 20,
@@ -216,7 +254,9 @@
     "CategoryId": 3,
     "CategoryName": "videos",
     "SearchLink": "https://vimeo.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/3PWGr/l"
+    "CategoryIcon": "https://i.suar.me/3PWGr/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 21,
@@ -226,7 +266,9 @@
     "CategoryId": 3,
     "CategoryName": "videos",
     "SearchLink": "https://www.dailymotion.com/search/",
-    "CategoryIcon": "https://i.suar.me/3PWGr/l"
+    "CategoryIcon": "https://i.suar.me/3PWGr/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 22,
@@ -236,7 +278,10 @@
     "CategoryId": 3,
     "CategoryName": "videos",
     "SearchLink": "https://www.twitch.tv/search?term=",
-    "CategoryIcon": "https://i.suar.me/3PWGr/l"
+    "CategoryIcon": "https://i.suar.me/3PWGr/l",
+    "IsFavorite": false
+
+
   },
   {
     "Id": 23,
@@ -246,7 +291,9 @@
     "CategoryId": 3,
     "CategoryName": "videos",
     "SearchLink": "https://9gag.com/search?query=",
-    "CategoryIcon": "https://i.suar.me/3PWGr/l"
+    "CategoryIcon": "https://i.suar.me/3PWGr/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 24,
@@ -256,7 +303,9 @@
     "CategoryId": 3,
     "CategoryName": "videos",
     "SearchLink": "https://www.ted.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/3PWGr/l"
+    "CategoryIcon": "https://i.suar.me/3PWGr/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 25,
@@ -266,7 +315,9 @@
     "CategoryId": 3,
     "CategoryName": "videos",
     "SearchLink": "https://www.facebook.com/watch/search/?q=",
-    "CategoryIcon": "https://i.suar.me/3PWGr/l"
+    "CategoryIcon": "https://i.suar.me/3PWGr/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 26,
@@ -276,7 +327,9 @@
     "CategoryId": 3,
     "CategoryName": "videos",
     "SearchLink": "https://www.tiktok.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/3PWGr/l"
+    "CategoryIcon": "https://i.suar.me/3PWGr/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 27,
@@ -286,7 +339,9 @@
     "CategoryId": 4,
     "CategoryName": "shopping",
     "SearchLink": "https://www.amazon.com/s?k=",
-    "CategoryIcon": "https://i.suar.me/8nyVZ/l"
+    "CategoryIcon": "https://i.suar.me/8nyVZ/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 28,
@@ -296,7 +351,9 @@
     "CategoryId": 4,
     "CategoryName": "shopping",
     "SearchLink": "https://www.walmart.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/8nyVZ/l"
+    "CategoryIcon": "https://i.suar.me/8nyVZ/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 29,
@@ -306,7 +363,9 @@
     "CategoryId": 4,
     "CategoryName": "shopping",
     "SearchLink": "https://www.target.com/s?searchTerm=",
-    "CategoryIcon": "https://i.suar.me/8nyVZ/l"
+    "CategoryIcon": "https://i.suar.me/8nyVZ/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 30,
@@ -316,7 +375,9 @@
     "CategoryId": 4,
     "CategoryName": "shopping",
     "SearchLink": "https://www.ebay.com/sch/i.html?_nkw=",
-    "CategoryIcon": "https://i.suar.me/8nyVZ/l"
+    "CategoryIcon": "https://i.suar.me/8nyVZ/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 31,
@@ -326,7 +387,9 @@
     "CategoryId": 4,
     "CategoryName": "shopping",
     "SearchLink": "https://www.ikea.com/search/products/?q=",
-    "CategoryIcon": "https://i.suar.me/8nyVZ/l"
+    "CategoryIcon": "https://i.suar.me/8nyVZ/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 32,
@@ -336,7 +399,9 @@
     "CategoryId": 4,
     "CategoryName": "shopping",
     "SearchLink": "https://www.etsy.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/8nyVZ/l"
+    "CategoryIcon": "https://i.suar.me/8nyVZ/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 33,
@@ -346,7 +411,9 @@
     "CategoryId": 4,
     "CategoryName": "shopping",
     "SearchLink": "https://www.alibaba.com/trade/search?SearchText=",
-    "CategoryIcon": "https://i.suar.me/8nyVZ/l"
+    "CategoryIcon": "https://i.suar.me/8nyVZ/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 34,
@@ -356,7 +423,9 @@
     "CategoryId": 4,
     "CategoryName": "shopping",
     "SearchLink": "https://www.flipkart.com/search?q=",
-    "CategoryIcon": "https://i.suar.me/8nyVZ/l"
+    "CategoryIcon": "https://i.suar.me/8nyVZ/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 35,
@@ -366,7 +435,9 @@
     "CategoryId": 5,
     "CategoryName": "courses",
     "SearchLink": "https://www.skillshare.com/search?query=",
-    "CategoryIcon": "https://i.suar.me/dQLda/l"
+    "CategoryIcon": "https://i.suar.me/dQLda/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 36,
@@ -376,7 +447,9 @@
     "CategoryId": 5,
     "CategoryName": "courses",
     "SearchLink": "https://www.udemy.com/courses/search/?q=",
-    "CategoryIcon": "https://i.suar.me/dQLda/l"
+    "CategoryIcon": "https://i.suar.me/dQLda/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 37,
@@ -386,7 +459,9 @@
     "CategoryId": 5,
     "CategoryName": "courses",
     "SearchLink": "https://www.linkedin.com/learning/search?keywords=",
-    "CategoryIcon": "https://i.suar.me/dQLda/l"
+    "CategoryIcon": "https://i.suar.me/dQLda/l",
+    "IsFavorite": true
+
   },
   {
     "Id": 38,
@@ -396,7 +471,9 @@
     "CategoryId": 5,
     "CategoryName": "courses",
     "SearchLink": "",
-    "CategoryIcon": "https://i.suar.me/dQLda/l"
+    "CategoryIcon": "https://i.suar.me/dQLda/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 39,
@@ -406,7 +483,9 @@
     "CategoryId": 5,
     "CategoryName": "courses",
     "SearchLink": "https://www.edx.org/search?q=",
-    "CategoryIcon": "https://i.suar.me/dQLda/l"
+    "CategoryIcon": "https://i.suar.me/dQLda/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 40,
@@ -416,7 +495,9 @@
     "CategoryId": 5,
     "CategoryName": "courses",
     "SearchLink": "https://www.coursera.org/search?query=",
-    "CategoryIcon": "https://i.suar.me/dQLda/l"
+    "CategoryIcon": "https://i.suar.me/dQLda/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 41,
@@ -426,7 +507,9 @@
     "CategoryId": 5,
     "CategoryName": "courses",
     "SearchLink": "https://en.khanacademy.org/search?page_search_query=",
-    "CategoryIcon": "https://i.suar.me/dQLda/l"
+    "CategoryIcon": "https://i.suar.me/dQLda/l",
+    "IsFavorite": false
+
   },
   {
     "Id": 42,
@@ -436,7 +519,8 @@
     "CategoryId": 5,
     "CategoryName": "courses",
     "SearchLink": "https://alison.com/courses?query=",
-    "CategoryIcon": "https://i.suar.me/dQLda/l"
+    "CategoryIcon": "https://i.suar.me/dQLda/l",
+    "IsFavorite": false
   }
 
 ]
