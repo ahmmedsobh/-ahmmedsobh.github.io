@@ -125,7 +125,7 @@
     "CategoryName": "social media",
     "SearchLink": "",
     "CategoryIcon": "https://i.suar.me/Or41x/l",
-    "IsFavorite":false
+    "IsFavorite": false
 
   },
   //{
@@ -521,7 +521,462 @@
     "SearchLink": "https://alison.com/courses?query=",
     "CategoryIcon": "https://i.suar.me/dQLda/l",
     "IsFavorite": false
+  },
+  {
+    "Id": 43,
+    "Text": "google jobs",
+    "Url": "https://www.google.com/",
+    "Icon": "https://i.suar.me/G5Mq9/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://www.google.com/search?q=jobs+",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 44,
+    "Text": "glassdoor",
+    "Url": "https://www.glassdoor.com/index.htm",
+    "Icon": "https://i.suar.me/zWxqL/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 45,
+    "Text": "craigslist jobs",
+    "Url": "https://craigslist.org/search/jjj",
+    "Icon": "https://i.suar.me/4P3XB/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://craigslist.org/search/jjj?query=",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 46,
+    "Text": "linkup",
+    "Url": "https://www.linkup.com/",
+    "Icon": "https://i.suar.me/09my7/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://search.linkup.com/search/results/",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 47,
+    "Text": "linkedin",
+    "Url": "https://www.linkedin.com/",
+    "Icon": "https://i.suar.me/GqAv6/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://www.linkedin.com/jobs/search?keywords=",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": true
+  },
+  {
+    "Id": 48,
+    "Text": "snagajob",
+    "Url": "https://www.snagajob.com/",
+    "Icon": "https://i.suar.me/yMxln/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://www.snagajob.com/search?q=",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 49,
+    "Text": "naukri",
+    "Url": "https://www.naukrigulf.com/",
+    "Icon": "https://i.suar.me/A8APe/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://www.naukrigulf.com/",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": true
+  },
+  {
+    "Id": 50,
+    "Text": "ziprecruiter",
+    "Url": "https://www.ziprecruiter.com",
+    "Icon": "https://i.suar.me/BLAv2/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://www.ziprecruiter.com/candidate/search?form=jobs-landing&search=",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 51,
+    "Text": "indeed",
+    "Url": "https://indeed.com",
+    "Icon": "https://i.suar.me/mZVEN/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://indeed.com/jobs?q=",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": true
+  },
+  {
+    "Id": 52,
+    "Text": "career builder",
+    "Url": "https://www.careerbuilder.com/",
+    "Icon": "https://i.suar.me/KdEvy/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://www.careerbuilder.com/jobs?keywords=",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 53,
+    "Text": "simply hired",
+    "Url": "https://www.simplyhired.com/",
+    "Icon": "https://i.suar.me/6LjvK/l",
+    "CategoryId": 6,
+    "CategoryName": "jobs",
+    "SearchLink": "https://www.simplyhired.com/search?q=",
+    "CategoryIcon": "https://i.suar.me/M8Gvz/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 54,
+    "Text": "amazon books",
+    "Url": "https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155",
+    "Icon": "https://i.suar.me/6LjvK/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://www.amazon.com/s?k=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": true
+  },
+  {
+    "Id": 56,
+    "Text": "bookish",
+    "Url": "https://bookish.netgalley.com/",
+    "Icon": "https://i.suar.me/qMLjJ/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://bookish.netgalley.com/?s=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 57,
+    "Text": "bookriot",
+    "Url": "https://bookriot.com/",
+    "Icon": "https://i.suar.me/e8rK0/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://bookriot.com/?s=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 58,
+    "Text": "book list",
+    "Url": "https://www.booklistonline.com/",
+    "Icon": "https://i.suar.me/O5Bj8/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 59,
+    "Text": "book finder",
+    "Url": "https://www.bookfinder.com/",
+    "Icon": "https://i.suar.me/NWGdZ/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://www.bookfinder.com/search/?author=&title=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 60,
+    "Text": "bookbub",
+    "Url": "https://www.bookbub.com/welcome",
+    "Icon": "https://i.suar.me/djwm9/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 61,
+    "Text": "kirkus",
+    "Url": "https://www.kirkusreviews.com/",
+    "Icon": "https://i.suar.me/j971z/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://www.kirkusreviews.com/search/books/?q=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 62,
+    "Text": "good reads",
+    "Url": "https://www.goodreads.com/",
+    "Icon": "https://i.suar.me/8amWL/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://www.goodreads.com/search?query=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": true
+  },
+  {
+    "Id": 63,
+    "Text": "love reading",
+    "Url": "https://www.lovereading.co.uk/",
+    "Icon": "https://i.suar.me/LjGNG/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://www.lovereading.co.uk/search?s=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 64,
+    "Text": "which book",
+    "Url": "https://www.whichbook.net/",
+    "Icon": "https://i.suar.me/2Pjv3/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 65,
+    "Text": "google books",
+    "Url": "https://books.google.com/",
+    "Icon": "https://i.suar.me/aNmGZ/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://www.google.com/search?tbm=bks&q=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": true
+  },
+  {
+    "Id": 66,
+    "Text": "library thing",
+    "Url": "https://www.librarything.com/",
+    "Icon": "https://i.suar.me/3nmXd/l",
+    "CategoryId": 7,
+    "CategoryName": "books",
+    "SearchLink": "https://www.librarything.com/search.php?search=",
+    "CategoryIcon": "https://i.suar.me/Y0jEQ/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 67,
+    "Text": "washington post",
+    "Url": "https://www.washingtonpost.com/",
+    "Icon": "https://i.suar.me/8amWy/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://www.washingtonpost.com/search/?query=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 68,
+    "Text": "google news",
+    "Url": "https://news.google.com",
+    "Icon": "https://i.suar.me/j971v/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://news.google.com/search?q=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": true
+  },
+  {
+    "Id": 69,
+    "Text": "cnn",
+    "Url": "https://edition.cnn.com/",
+    "Icon": "https://i.suar.me/o9WOV/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://edition.cnn.com/search?q=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 70,
+    "Text": "wsj",
+    "Url": "https://www.wsj.com/",
+    "Icon": "https://i.suar.me/xWNwG/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://www.wsj.com/search?query=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 71,
+    "Text": "microsoft news",
+    "Url": "https://news.microsoft.com/",
+    "Icon": "https://i.suar.me/72X6d/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://news.microsoft.com/?s=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 72,
+    "Text": "bbc news",
+    "Url": "https://www.bbc.com/news",
+    "Icon": "https://i.suar.me/wXe7j/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://www.bbc.co.uk/search?q=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 73,
+    "Text": "nbc news",
+    "Url": "https://www.nbcnews.com/",
+    "Icon": "https://i.suar.me/VXPwJ/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://www.nbcnews.com/search/?q=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 74,
+    "Text": "nbc news",
+    "Url": "https://www.nytimes.com/international/",
+    "Icon": "https://i.suar.me/g9rL2/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://www.nytimes.com/search?query=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 75,
+    "Text": "fox news",
+    "Url": "https://www.foxnews.com/",
+    "Icon": "https://i.suar.me/91X63/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://www.foxnews.com/search-results/search?q=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 76,
+    "Text": "npr news",
+    "Url": "https://www.npr.org/sections/news/",
+    "Icon": "https://i.suar.me/M8GO3/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://www.npr.org/search/?query=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 77,
+    "Text": "yahoo news",
+    "Url": "https://news.yahoo.com/",
+    "Icon": "https://i.suar.me/Y0j9X/l",
+    "CategoryId": 8,
+    "CategoryName": "news",
+    "SearchLink": "https://search.yahoo.com/search?p=",
+    "CategoryIcon": "https://i.suar.me/JOGv9/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 78,
+    "Text": "AccuWeather",
+    "Url": "https://www.accuweather.com/",
+    "Icon": "https://i.suar.me/JOGqa/l",
+    "CategoryId": 9,
+    "CategoryName": "weather",
+    "SearchLink": "https://www.accuweather.com/en/search-locations?query=",
+    "CategoryIcon": "https://i.suar.me/91XWP/l",
+    "IsFavorite": true
+  },
+  {
+    "Id": 79,
+    "Text": "weather",
+    "Url": "https://www.weather.gov/",
+    "Icon": "https://i.suar.me/zWxgv/l",
+    "CategoryId": 9,
+    "CategoryName": "weather",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/91XWP/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 80,
+    "Text": "wunderground",
+    "Url": "https://www.wunderground.com/",
+    "Icon": "https://i.suar.me/4P36X/l",
+    "CategoryId": 9,
+    "CategoryName": "weather",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/91XWP/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 81,
+    "Text": "weather",
+    "Url": "https://weather.com",
+    "Icon": "https://i.suar.me/ZLjMM/l",
+    "CategoryId": 9,
+    "CategoryName": "weather",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/91XWP/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 82,
+    "Text": "weather bug",
+    "Url": "https://www.weatherbug.com/",
+    "Icon": "https://i.suar.me/09m6r/l",
+    "CategoryId": 9,
+    "CategoryName": "weather",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/91XWP/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 83,
+    "Text": "windy",
+    "Url": "https://www.windy.com",
+    "Icon": "https://i.suar.me/A8A6V/l",
+    "CategoryId": 9,
+    "CategoryName": "weather",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/91XWP/l",
+    "IsFavorite": false
+  },
+  {
+    "Id": 84,
+    "Text": "world weather",
+    "Url": "https://worldweather.wmo.int/en/home.html",
+    "Icon": "https://i.suar.me/yMxV7/l",
+    "CategoryId": 9,
+    "CategoryName": "weather",
+    "SearchLink": "",
+    "CategoryIcon": "https://i.suar.me/91XWP/l",
+    "IsFavorite": false
   }
+
+
+
+
 
 ]
   
