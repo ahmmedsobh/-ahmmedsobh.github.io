@@ -92,18 +92,18 @@
     "IsFavorite": false
 
   },
-  {
-    "Id": 9,
-    "Text": "linkedin",
-    "Url": "https://www.linkedin.com",
-    "Icon": "https://i.suar.me/05ABZ/l",
-    "CategoryId": 1,
-    "CategoryName": "social media",
-    "SearchLink": "https://www.linkedin.com/search/results/all/?keywords=",
-    "CategoryIcon": "https://i.suar.me/Or41x/l",
-    "IsFavorite": true
+  //{
+  //  "Id": 9,
+  //  "Text": "linkedin",
+  //  "Url": "https://www.linkedin.com",
+  //  "Icon": "https://i.suar.me/05ABZ/l",
+  //  "CategoryId": 1,
+  //  "CategoryName": "social media",
+  //  "SearchLink": "https://www.linkedin.com/search/results/all/?keywords=",
+  //  "CategoryIcon": "https://i.suar.me/Or41x/l",
+  //  "IsFavorite": true
 
-  },
+  //},
   {
     "Id": 10,
     "Text": "tumblr",
@@ -647,7 +647,7 @@
     "Id": 54,
     "Text": "amazon books",
     "Url": "https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155",
-    "Icon": "https://i.suar.me/6LjvK/l",
+    "Icon": "https://i.suar.me/l9Xq5/l",
     "CategoryId": 7,
     "CategoryName": "books",
     "SearchLink": "https://www.amazon.com/s?k=",
@@ -821,7 +821,7 @@
   },
   {
     "Id": 71,
-    "Text": "microsoft news",
+    "Text": "ms news",
     "Url": "https://news.microsoft.com/",
     "Icon": "https://i.suar.me/72X6d/l",
     "CategoryId": 8,
@@ -854,7 +854,7 @@
   },
   {
     "Id": 74,
-    "Text": "nbc news",
+    "Text": "nytimes",
     "Url": "https://www.nytimes.com/international/",
     "Icon": "https://i.suar.me/g9rL2/l",
     "CategoryId": 8,
